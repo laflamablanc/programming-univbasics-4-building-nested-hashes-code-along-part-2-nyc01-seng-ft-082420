@@ -46,7 +46,7 @@ def add_characters
          ]
       }
    }
-
+end
    # Write code below that does the following programmatically:
    #
    # - Add an additional :additional_characters key to epic_tragedy and assign it an array as its value
@@ -67,4 +67,3 @@ end
 
    # After your code, the following line will return the altered hash
    epic_tragedy
-end
